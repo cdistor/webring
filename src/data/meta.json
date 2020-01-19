@@ -3,11 +3,11 @@
     "description": " Recycle! Reuse! Repurpose! For DIY'er in all of us! Be sure to check out our SHOP. A portion of each sale will benefit an organiziation in memory of David G. who fought his A$$ off!",
     "image": "jagoda-kondratiuk-mv6gXaoYaBo-unsplash.jpg",
     "url": "https://webringdemo.netlify.com",
-    "repo": "https://github.com/cdistor/webring",
+    "repo": "https://github.com/cdistor/glitch-branch",
     "admins": [
         {
-            "name": "ChristineTheMaker",
-            "url": "https://github.com/cdistor"
+            "name": "Christine",
+            "url": "https://the-stranded-closet.glitch.me"
         }
     ]
 }
